@@ -35,5 +35,5 @@ This project contains automated tests for the [DevChallenge](https://www.devchal
 2. **Clone the Repository**
 
    ```bash
-   git clone <repository_url>
+   git clone [<repository_url>](https://github.com/solidnaivety/task3.git)
    cd <repository_directory>
